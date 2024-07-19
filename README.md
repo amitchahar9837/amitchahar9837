@@ -1,4 +1,4 @@
-[![MasterHead](https://www.softprodigy.com/storage/2021/06/JS-Development-Gif.gif)](https://linkedin.in/amitchahar9837)
+[![MasterHead](https://www.softprodigy.com/storage/2021/06/JS-Development-Gif.gif)](https://linkedin.com/in/amitchahar9837)
 <h1 align="center">Hi 👋, I'm Amit Chahar</h1>
 <h3 align="center">A passionate Full Stack Developer(MERN)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
